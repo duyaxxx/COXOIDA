@@ -1,0 +1,17 @@
+[
+  {
+    "Author": "COXOIDA",
+    "Name": "COXOIDA",
+    "InternalName": "COXOIDA",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "自用插件：游戏内快捷指令按钮、咏唱条滑步提示、PVP 模块以及其他游戏内辅助功能。",
+    "Punchline": "快捷指令面板 + 滑步咏唱提示 + PVP 模块",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/duyaxxx/COXOIDA",
+    "IconUrl": "https://raw.githubusercontent.com/duyaxxx/COXOIDA/main/COXOIDA/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/duyaxxx/COXOIDA/releases/download/v0.1.0/COXOIDA-Release.zip",
+    "DownloadLinkUpdate": "https://github.com/duyaxxx/COXOIDA/releases/download/v0.1.0/COXOIDA-Release.zip",
+    "IsTestingExclusive": false
+  }
+]
