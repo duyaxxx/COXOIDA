@@ -13,5 +13,19 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/duyaxxx/COXOIDA/main/COXOIDA-0.1.9.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/duyaxxx/COXOIDA/main/COXOIDA-0.1.9.zip",
     "IsTestingExclusive": false
+  },
+  {
+    "Author": "COXOIDA",
+    "Name": "NekoNeko",
+    "InternalName": "NekoNeko",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "职业规则、通用战斗工具与开发调试。使用 /neko 打开主界面，/neko debug 打开调试窗口。",
+    "Punchline": "职业规则与战斗工具",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/duyaxxx/COXOIDA",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/duyaxxx/COXOIDA/main/NekoNeko-0.1.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/duyaxxx/COXOIDA/main/NekoNeko-0.1.0.zip",
+    "IsTestingExclusive": false
   }
 ]
